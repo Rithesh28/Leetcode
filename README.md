@@ -5,3 +5,23 @@ This repository contains my solutions to LeetCode problems solved during placeme
 
 ## Language
 - Python
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Rithesh28/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## String
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Rithesh28/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Rithesh28/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Rithesh28/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+<!---LeetCode Topics End-->
