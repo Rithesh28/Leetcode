@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rithesh28/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rithesh28/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String
 |  |
 | ------- |
@@ -24,4 +25,12 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rithesh28/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rithesh28/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rithesh28/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
