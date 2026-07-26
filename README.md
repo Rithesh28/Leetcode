@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rithesh28/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rithesh28/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rithesh28/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -29,6 +30,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rithesh28/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rithesh28/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rithesh28/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -44,5 +46,6 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rithesh28/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
