@@ -5,6 +5,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 
 ## Language
 - Python
+- Java
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
