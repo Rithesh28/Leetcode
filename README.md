@@ -21,6 +21,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Rithesh28/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rithesh28/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rithesh28/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
