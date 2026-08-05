@@ -123,4 +123,16 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Rithesh28/Leetcode/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Rithesh28/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Rithesh28/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Rithesh28/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
