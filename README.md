@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/Rithesh28/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rithesh28/Leetcode/tree/master/0877-stone-game) |
@@ -27,6 +28,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rithesh28/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rithesh28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rithesh28/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -70,6 +72,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rithesh28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rithesh28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -90,6 +93,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rithesh28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rithesh28/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Rithesh28/Leetcode/tree/master/3731-find-missing-elements) |
