@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rithesh28/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
+| [0344-reverse-string](https://github.com/Rithesh28/Leetcode/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rithesh28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rithesh28/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -155,6 +156,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Rithesh28/Leetcode/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rithesh28/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
