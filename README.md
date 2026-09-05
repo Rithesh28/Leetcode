@@ -173,4 +173,8 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Rithesh28/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
