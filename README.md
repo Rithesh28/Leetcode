@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rithesh28/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Rithesh28/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rithesh28/Leetcode/tree/master/0344-reverse-string) |
 | [2315-count-asterisks](https://github.com/Rithesh28/Leetcode/tree/master/2315-count-asterisks) |
