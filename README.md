@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rithesh28/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rithesh28/Leetcode/tree/master/0344-reverse-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rithesh28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -49,6 +50,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rithesh28/Leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/Rithesh28/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rithesh28/Leetcode/tree/master/0877-stone-game) |
@@ -64,6 +66,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rithesh28/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rithesh28/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
@@ -164,4 +167,8 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rithesh28/Leetcode/tree/master/1140-stone-game-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
