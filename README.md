@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Rithesh28/Leetcode/tree/master/0344-reverse-string) |
+| [2315-count-asterisks](https://github.com/Rithesh28/Leetcode/tree/master/2315-count-asterisks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rithesh28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rithesh28/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
