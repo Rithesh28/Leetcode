@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Rithesh28/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Rithesh28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Rithesh28/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rithesh28/Leetcode/tree/master/0058-length-of-last-word) |
@@ -53,6 +54,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rithesh28/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Rithesh28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/Rithesh28/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -101,6 +103,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Rithesh28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rithesh28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rithesh28/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
