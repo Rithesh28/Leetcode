@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rithesh28/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rithesh28/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/Rithesh28/Leetcode/tree/master/0486-predict-the-winner) |
@@ -166,6 +167,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rithesh28/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rithesh28/Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Rithesh28/Leetcode/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rithesh28/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
