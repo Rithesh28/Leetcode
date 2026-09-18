@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rithesh28/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rithesh28/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Rithesh28/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/Rithesh28/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rithesh28/Leetcode/tree/master/0035-search-insert-position) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rithesh28/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
