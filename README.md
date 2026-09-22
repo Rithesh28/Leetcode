@@ -159,10 +159,12 @@ This repository contains my solutions to LeetCode problems solved during placeme
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rithesh28/Leetcode/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/Rithesh28/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rithesh28/Leetcode/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/Rithesh28/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -213,4 +215,12 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithesh28/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rithesh28/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rithesh28/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
