@@ -63,6 +63,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | [0009-palindrome-number](https://github.com/Rithesh28/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rithesh28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Rithesh28/Leetcode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Rithesh28/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rithesh28/Leetcode/tree/master/0877-stone-game) |
@@ -113,6 +114,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Rithesh28/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Rithesh28/Leetcode/tree/master/0202-happy-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rithesh28/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rithesh28/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Rithesh28/Leetcode/tree/master/3731-find-missing-elements) |
@@ -181,6 +183,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | [0027-remove-element](https://github.com/Rithesh28/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rithesh28/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Rithesh28/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Rithesh28/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Rithesh28/Leetcode/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rithesh28/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
@@ -227,4 +230,8 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rithesh28/Leetcode/tree/master/0100-same-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rithesh28/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
