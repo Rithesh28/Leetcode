@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | [0035-search-insert-position](https://github.com/Rithesh28/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Rithesh28/Leetcode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Rithesh28/Leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Rithesh28/Leetcode/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/Rithesh28/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rithesh28/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rithesh28/Leetcode/tree/master/0877-stone-game) |
@@ -78,6 +79,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rithesh28/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Rithesh28/Leetcode/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rithesh28/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rithesh28/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
