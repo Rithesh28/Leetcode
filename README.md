@@ -71,6 +71,7 @@ This repository contains my solutions to LeetCode problems solved during placeme
 | [0877-stone-game](https://github.com/Rithesh28/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rithesh28/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rithesh28/Leetcode/tree/master/1406-stone-game-iii) |
+| [2235-add-two-integers](https://github.com/Rithesh28/Leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rithesh28/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rithesh28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rithesh28/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
